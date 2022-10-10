@@ -285,6 +285,10 @@ footer{
     width:100%;
     background-color: whitesmoke;
 }
+.manul{
+     position: absolute;
+    top:280px; 
+}
 footer ul{
     position: absolute;
     top:25px; left:80px;
