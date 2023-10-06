@@ -35,4 +35,4 @@ We welcome contributions from the community! If you have templates to add, featu
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/template-showcase.git
+   git clone https://github.com/sonusecond/sonusecond.github.io.git
